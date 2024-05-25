@@ -1,0 +1,19 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+li {
+    list-style-type: square;
+}
+
+i {
+    opacity: calc(50%);
+}
+
+div {
+    margin: 30;
+}
+
+a {
+    color: gray;
+}
